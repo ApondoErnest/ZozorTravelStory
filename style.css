@@ -353,4 +353,26 @@ footer h1 {
     {
         text-align: center; 
     }
+
+    footer 
+    {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;        
+    }
+
+    #tweet, #my_pictures, #my_friends 
+    {
+        width: auto;
+        text-align: center;
+    }
+    #friends_list 
+    {
+        justify-content: center;
+    }
+
+    #friends_list ul 
+    {
+        text-align: left;
+    }
 }
