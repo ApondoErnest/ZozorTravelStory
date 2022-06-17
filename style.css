@@ -289,6 +289,8 @@ footer h1 {
     color: #760001;
 }
 
+/*Media queries*/
+
 @media all and (max-width: 1024px) {
     #block_page 
     {
